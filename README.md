@@ -1,6 +1,6 @@
 ### Hola 👋 Bienvenid@ a mi portafolio de proyectos de análisis de datos y ciencia de datos.
 
-Este es mi portafolio de proyectos de análisis de datos, donde presento una selección de proyectos en los que he trabajado y que reflejan mis habilidades y experiencia en el análisis de datos y tratamiento de datos.
+Éste es mi portafolio de proyectos, donde presento una selección de proyectos en los que he trabajado y que reflejan mis habilidades y experiencia en el análisis de datos y tratamiento de datos.
 
 **Tecnologías utilizadas:**
 
